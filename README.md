@@ -11,9 +11,9 @@ Some Tutorials and Things to Do while Hunting Particular Vulnerability.
 
 **Note: You can help me complete this list by making Pull Request and please do mention your twitter handler at the end of the file.**
 
-**All the credits to all the contributors, without you all it could have never been possible**
+**All the credits to all the contributors without you all it could have never been possible**
 
-**If you want to know what's added every week then follow me on twitter [https://twitter.com/KathanP19](https://twitter.com/KathanP19) I post what's updated every weekends.**
+**If you want to know what's addedevery week then follow me on twitter [https://twitter.com/KathanP19](https://twitter.com/KathanP19) I post what's updated every weekends.**
 
 [If You Want To Support Project Or Me You Can Buy Me A Coffee](https://www.buymeacoffee.com/kathanp19)
 
